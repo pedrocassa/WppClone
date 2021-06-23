@@ -1,0 +1,13 @@
+.loginFormDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.loginFormBox {
+    border: 1px hidden;
+    border-radius: 5px;
+    padding: 30px;
+    background-color: #EBF3F4;
+}
